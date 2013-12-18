@@ -1,0 +1,24 @@
+name of the activity: theBlackbook
+
+subject
+the application developers - Lucia Rabago Mayer and Ilaria Baggio, two pretty girls owners of the creative and coding of the application -
+
+
+object
+this project is the development of an app designed for people that wants to keep track of their interactions with particular contacts.
+
+Outome
+keep track of what kind of interaction you have with some particular people
+
+Mediating Artifacts
+Javascript, CSS, html, FAQ.
+
+Rules
+Breaf (develop an app that quantify datas), Creative Commons.
+
+Community
+community 1: Users wich have the faculty to help the develop of the application itself.
+community 2: Users that are using the application.
+
+Roles
+Owners (two pretty girls), Software Developers, Users.

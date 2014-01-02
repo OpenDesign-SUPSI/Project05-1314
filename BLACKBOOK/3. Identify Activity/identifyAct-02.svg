@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595.28px" height="395.98px" viewBox="0 0 595.28 395.98" enable-background="new 0 0 595.28 395.98" xml:space="preserve">
+<g id="Livello_1" display="none">
+</g>
+<g id="Livello_2">
+	<rect x="26.72" y="15.186" fill="none" width="184.009" height="21.961"/>
+	<text transform="matrix(1 0 0 1 26.7197 27.9653)" font-family="'MyriadPro-Regular'" font-size="18">Identify activies</text>
+	<rect x="278.396" y="79.578" fill="none" width="32.833" height="12.333"/>
+	<text transform="matrix(1 0 0 1 278.3955 90.938)" font-family="'MyriadPro-Regular'" font-size="16">user</text>
+	<rect x="482.387" y="362.043" fill="none" width="69.374" height="14.333"/>
+	<text transform="matrix(1 0 0 1 482.3867 373.4028)" font-family="'MyriadPro-Regular'" font-size="16">developer</text>
+	<rect x="32.413" y="361.376" fill="none" width="118.613" height="15.667"/>
+	<text transform="matrix(1 0 0 1 32.4131 372.7363)" font-family="'MyriadPro-Regular'" font-size="16">designer</text>
+	<rect x="271.396" y="348.489" fill="none" width="44.838" height="15.178"/>
+	<text transform="matrix(1 0 0 1 271.3955 359.8491)" font-family="'MyriadPro-Regular'" font-size="16">owner</text>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="324.372" y1="356.078" x2="496.735" y2="356.078"/>
+			<g>
+				<polygon points="325.776,357.93 324.99,356.078 325.776,354.227 321.388,356.078 				"/>
+			</g>
+			<g>
+				<polygon points="495.331,357.93 496.118,356.078 495.331,354.227 499.721,356.078 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="87.819" y1="356.078" x2="258.403" y2="356.078"/>
+			<g>
+				<polygon points="89.224,357.93 88.437,356.078 89.224,354.227 84.834,356.078 				"/>
+			</g>
+			<g>
+				<polygon points="256.999,357.93 257.785,356.078 256.999,354.227 261.388,356.078 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="84.029" y1="341.795" x2="283.815" y2="101.339"/>
+			<g>
+				<polygon points="86.352,341.898 84.425,341.32 83.503,339.532 82.122,344.091 				"/>
+			</g>
+			<g>
+				<polygon points="284.342,103.602 283.421,101.814 281.493,101.236 285.723,99.043 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="502.813" y1="345.032" x2="300.338" y2="101.339"/>
+			<g>
+				<polygon points="503.34,342.769 502.419,344.557 500.491,345.135 504.721,347.328 				"/>
+			</g>
+			<g>
+				<polygon points="302.66,101.236 300.733,101.814 299.812,103.602 298.431,99.043 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="203.396" y="214.322" fill="#DADADA" width="60.992" height="24"/>
+	<rect x="210.729" y="219.655" fill="none" width="47.659" height="16.793"/>
+	<text transform="matrix(1 0 0 1 210.7285 231.0151)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="16">testing</text>
+	<rect x="245.816" y="291.376" fill="#DADADA" width="91.823" height="24"/>
+	<rect x="253.149" y="296.71" fill="none" width="77.49" height="16.793"/>
+	<text transform="matrix(1 0 0 1 253.1494 308.0698)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="16">developing</text>
+	<rect x="320.64" y="214.322" fill="#DADADA" width="60.992" height="24"/>
+	<rect x="332.973" y="219.655" fill="none" width="38.659" height="16.793"/>
+	<text transform="matrix(1 0 0 1 332.9727 231.0151)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="16">share</text>
+</g>
+</svg>
